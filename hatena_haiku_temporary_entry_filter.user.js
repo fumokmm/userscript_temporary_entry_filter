@@ -1,5 +1,5 @@
 ﻿// ==UserScript==
-// @name           temporary_entry_filter
+// @name           hatena_haiku_temporary_entry_filter
 // @namespace      http://d.hatena.ne.jp/fumokmm/
 // @description    add temporary entry filter for Hatena Haiku
 // @include        http://h.hatena.ne.jp/*
